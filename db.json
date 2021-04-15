@@ -1,5 +1,5 @@
 {
-  "GetPlayerState": [
+  "GetSpecPlayerState": [
     {
       "id": "anonymous",
       "pseudo": "",
