@@ -2,7 +2,7 @@
   "GetSpecPlayerState": [
     {
       "id": "anonymous",
-      "pseudo": "",
+      "currentTheme": "",
       "themeStates": {
         "m_keys": [
           "EmptyTheme",
@@ -22,7 +22,7 @@
   "SetResultPlayerState": [
     {
       "id": "anonymous",
-      "pseudo": "",
+      "currentTheme": "",
       "themeStates": {
         "m_keys": [
           "EmptyTheme",
