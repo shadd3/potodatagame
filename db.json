@@ -1,5 +1,5 @@
 {
-  "GetSpecPlayerState": [
+  "GetResultPlayerState": [
     {
       "id": "anonymous",
       "pseudo": "",
@@ -19,7 +19,7 @@
       }
     }
   ],
-  "SetPlayerState": [
+  "SetResultPlayerState": [
     {
       "id": "anonymous",
       "pseudo": "",
